@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model and HuggingFace caches
+.cache/
+huggingface_cache/
+**/huggingface/
+sentence_transformers_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+
+# Large model artifacts
+# Note: .gitignore cannot filter by file size. Keep saved models/*.joblib
+# small (a few MB); if a saved model grows larger, exclude it manually
+# below or move it out of version control (e.g. Git LFS) instead of
+# relying on this file.
