@@ -18,6 +18,7 @@ env/
 
 # OS
 .DS_Store
+data/raw/__MACOSX/
 
 # Large model artifacts
 # Note: .gitignore cannot filter by file size. Keep saved models/*.joblib
