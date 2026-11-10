@@ -1,0 +1,7 @@
+source,label,original_count,removed_as_duplicate,removed_as_conflict,final_count
+amazon,0,500,4,0,496
+amazon,1,500,9,0,491
+imdb,0,500,2,0,498
+imdb,1,500,2,0,498
+yelp,0,500,3,0,497
+yelp,1,500,1,0,499
