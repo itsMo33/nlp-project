@@ -5,3 +5,4 @@ date,member,task,evidence_path_or_commit,notes
 2026-11-11,Mohammed Moayed Alqurini,"Built Method 1: TF-IDF + Logistic Regression pipeline fitted on training data only","e5459d3, sentiment_project.ipynb (Method 1)",
 2026-11-11,Mohammed Moayed Alqurini,"Ran development tuning: 6 TF-IDF candidates (ngram_range x C), selected (1,1) with C=10 by dev macro F1","e5459d3, results/dev_results.csv",
 2026-11-10,Mohammed Moayed Alqurini,"Reproducibility setup: fixed RANDOM_STATE=42, relative paths, Python venv and requirements.txt","e422326, requirements.txt, sentiment_project.ipynb (Setup)",
+2026-11-16,Mohammed Moayed Alqurini,"Reproducibility checks: pinned package versions and re-ran the notebook from a clean state with identical test metrics","35b5c88, requirements.txt, README.md",
