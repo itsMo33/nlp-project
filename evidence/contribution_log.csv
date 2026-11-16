@@ -1,2 +1,3 @@
 date,member,task,evidence_path_or_commit,notes
 2026-11-16,Danyal Salman Alhashem,"Added two labelled review examples",results/original_examples.csv,
+2026-11-16,Danyal Salman Alhashem,"Ran the notebook and verified both models' predictions on my two labelled examples",sentiment_project.ipynb,
