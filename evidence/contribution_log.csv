@@ -2,3 +2,6 @@ date,member,task,evidence_path_or_commit,notes
 2026-11-16,Danyal Salman Alhashem,"Added two labelled review examples",results/original_examples.csv,
 2026-11-16,Danyal Salman Alhashem,"Ran the notebook and verified both models' predictions on my two labelled examples",sentiment_project.ipynb,
 2026-11-16,Ali Jafar Altaweel,"Wrote two original labelled examples",results/original_examples.csv,
+2026-11-11,Mohammed Moayed Alqurini,"Built Method 1: TF-IDF + Logistic Regression pipeline fitted on training data only","e5459d3, sentiment_project.ipynb (Method 1)",
+2026-11-11,Mohammed Moayed Alqurini,"Ran development tuning: 6 TF-IDF candidates (ngram_range x C), selected (1,1) with C=10 by dev macro F1","e5459d3, results/dev_results.csv",
+2026-11-10,Mohammed Moayed Alqurini,"Reproducibility setup: fixed RANDOM_STATE=42, relative paths, Python venv and requirements.txt","e422326, requirements.txt, sentiment_project.ipynb (Setup)",
